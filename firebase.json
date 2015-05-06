@@ -1,0 +1,9 @@
+{
+  "firebase": "library-fb-spike",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
